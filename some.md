@@ -1,7 +1,4 @@
-# git
+## gi
+# git 
 
-```ts 
-var name = " josueeeee"
-
-```
-
+development
